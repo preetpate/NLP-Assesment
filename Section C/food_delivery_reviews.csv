@@ -1,0 +1,321 @@
+review_id,review_text,sentiment,issue_category,source
+1,Very disappointed with the overall service and the bad customer care.,Negative,General,handwritten
+2,Completely unacceptable. The delivery guy refused to come to my door.,Negative,Delivery,generated
+3,Terrible experience. Hidden charges made the bill too high.,Negative,General,generated
+4,Completely unacceptable. Order was delivered very late and tossed at the door.,Negative,Delivery,generated
+5,I order every week and the service is reliable. Pleasantly surprised.,Positive,General,generated
+6,The app crashed at checkout. Really unhappy with this.,Negative,App,generated
+7,"Perfect, will order again. Live tracking in the app worked perfectly.",Positive,App,generated
+8,"Excellent, thank you! Support team was polite and helpful.",Positive,General,generated
+9,Really unhappy with this. Delivery was delayed with no updates.,Negative,Delivery,generated
+10,Support team was polite and helpful. Absolutely fantastic.,Positive,General,generated
+11,Order tracking in the app is stuck and the map never updates.,Negative,App,handwritten
+12,Worst experience so far. Rider did not follow my directions and kept calling.,Negative,Delivery,generated
+13,Loved it! The app interface is clean and simple.,Positive,App,generated
+14,Five stars from me. Prices are fair and the offers are great.,Positive,General,generated
+15,Payment failed three times in the app but money was still deducted!,Negative,App,handwritten
+16,Great platform with fair charges. So good.,Positive,General,generated
+17,The refund was processed without any fuss. Great experience today.,Positive,General,generated
+18,Highly recommended. Portions were generous and the flavours were perfect.,Positive,Food Quality,generated
+19,Never ordering again. The pizza was burnt and the crust was hard.,Negative,Food Quality,generated
+20,The app loads the menu quickly. So good.,Positive,App,generated
+21,Rider was rude and left the bag outside the gate without ringing the bell.,Negative,Delivery,handwritten
+22,Highly recommended. Payment went through instantly in the app.,Positive,App,generated
+23,Worst experience so far. Rice was stale and the curry too salty.,Negative,Food Quality,generated
+24,"Login not working after the latest update, the app is full of bugs.",Negative,App,handwritten
+25,Absolutely fantastic. I order every week and the service is reliable.,Positive,General,generated
+26,The app never crashes and notifications keep me updated about my order.,Positive,App,handwritten
+27,Refund is still pending after two weeks. Really unhappy with this.,Negative,General,generated
+28,The app logged me out again and again. Terrible experience.,Negative,App,generated
+29,Noodles were flavourful and the vegetables were fresh. Very satisfied.,Positive,Food Quality,generated
+30,"Perfect, will order again. The courier was polite and careful with the order.",Positive,Delivery,generated
+31,Worst experience so far. No one replied to my emails about compensation.,Negative,General,generated
+32,Delivery was quick and smooth. Great experience today.,Positive,Delivery,generated
+33,Login kept failing after the app update. Completely unacceptable.,Negative,App,generated
+34,Completely unacceptable. Delivery was delayed with no updates.,Negative,Delivery,generated
+35,So bad. The app is slow and keeps freezing.,Negative,App,generated
+36,Highly recommended. Live tracking in the app worked perfectly.,Positive,App,generated
+37,"The courier was rude and impatient. One star, honestly.",Negative,Delivery,generated
+38,What a waste of money. Coupon code did not work in the app.,Negative,App,generated
+39,Order was delivered before the promised time. Loved it!,Positive,Delivery,generated
+40,Order tracking in the app never updates. Terrible experience.,Negative,App,generated
+41,Portion was tiny and the noodles were bland and oily.,Negative,Food Quality,handwritten
+42,Really unhappy with this. Coupon code did not work in the app.,Negative,App,generated
+43,"Order arrived earlier than the estimated time, impressive delivery service.",Positive,Delivery,handwritten
+44,Everything tasted fresh and well seasoned. Highly recommended.,Positive,Food Quality,generated
+45,Rider took a long detour and the delivery was very delayed.,Negative,Delivery,handwritten
+46,App logged me out repeatedly and the OTP never arrived.,Negative,App,handwritten
+47,Really happy with this order. The courier was polite and careful with the order.,Positive,Delivery,generated
+48,Customer care answered right away. Really happy with this order.,Positive,General,generated
+49,The delivery guy refused to come upstairs and was impolite.,Negative,Delivery,handwritten
+50,Payment failed in the app and money got deducted. Completely unacceptable.,Negative,App,generated
+51,Loved it! Reordering through the app is effortless.,Positive,App,generated
+52,Prices are fair and the offers are great. Very satisfied.,Positive,General,generated
+53,Support agent was rude and did not solve my issue at all.,Negative,General,handwritten
+54,Wonderful service. The courier was polite and careful with the order.,Positive,Delivery,generated
+55,The burger was juicy and the fries were crunchy. Great experience today.,Positive,Food Quality,generated
+56,Burger was soggy and the fries were greasy. What a waste of money.,Negative,Food Quality,generated
+57,Really happy with this order. Dessert was fresh and the curry was rich.,Positive,Food Quality,generated
+58,"Stale bread and watery gravy, the food smelled bad.",Negative,Food Quality,handwritten
+59,Payment through the app was instant and the checkout was seamless.,Positive,App,handwritten
+60,Support team was polite and helpful. Great experience today.,Positive,General,generated
+61,"Everything tasted fresh and well seasoned. Perfect, will order again.",Positive,Food Quality,generated
+62,Great experience today. Live tracking in the app worked perfectly.,Positive,App,generated
+63,Not happy at all. Delivery was delayed with no updates.,Negative,Delivery,generated
+64,Everything tasted stale and oily. Absolutely awful.,Negative,Food Quality,generated
+65,Great value for money and the customer support was very helpful.,Positive,General,handwritten
+66,Delivery was delayed with no updates. Really unhappy with this.,Negative,Delivery,generated
+67,"Customer care answered right away. Perfect, will order again.",Positive,General,generated
+68,Wonderful service. Tasty biryani with fresh ingredients.,Positive,Food Quality,generated
+69,Absolutely awful. No one replied to my emails about compensation.,Negative,General,generated
+70,Order was delivered very late and tossed at the door. So bad.,Negative,Delivery,generated
+71,"The dessert was fresh and the burger juicy, great taste overall.",Positive,Food Quality,handwritten
+72,"One star, honestly. The courier was rude and impatient.",Negative,Delivery,generated
+73,"App is so slow, the menu takes forever to load.",Negative,App,handwritten
+74,Very satisfied. The refund was processed without any fuss.,Positive,General,generated
+75,Support team was polite and helpful. So good.,Positive,General,generated
+76,The rider arrived right on time. So good.,Positive,Delivery,generated
+77,The rider arrived right on time. Absolutely fantastic.,Positive,Delivery,generated
+78,Wonderful service. Prices are fair and the offers are great.,Positive,General,generated
+79,Found a hair in my soup. Disgusting food quality!,Negative,Food Quality,handwritten
+80,Terrible experience. The food was cold and tasteless.,Negative,Food Quality,generated
+81,The rider arrived right on time. Loved it!,Positive,Delivery,generated
+82,Coupon code did not work in the app. Terrible experience.,Negative,App,generated
+83,"Great app design, search filters helped me find dishes quickly.",Positive,App,handwritten
+84,Absolutely awful. Customer support ignored my complaint.,Negative,General,generated
+85,So good. Great platform with fair charges.,Positive,General,generated
+86,Really happy with this order. Payment went through instantly in the app.,Positive,App,generated
+87,Highly recommended. The burger was juicy and the fries were crunchy.,Positive,Food Quality,generated
+88,Cancellation policy is unfair and my money was not returned.,Negative,General,handwritten
+89,Really unhappy with this. Hidden charges made the bill too high.,Negative,General,generated
+90,The dessert was melted and the sauce tasted sour. Terrible experience.,Negative,Food Quality,generated
+91,"The app loads the menu quickly. Perfect, will order again.",Positive,App,generated
+92,The delivery partner cancelled after making me wait. Not happy at all.,Negative,Delivery,generated
+93,Wonderful service. Coupon codes applied without any error in the app.,Positive,App,generated
+94,Not happy at all. Chicken was undercooked and the gravy smelled bad.,Negative,Food Quality,generated
+95,Very disappointed. The dessert was melted and the sauce tasted sour.,Negative,Food Quality,generated
+96,So bad. The pizza was burnt and the crust was hard.,Negative,Food Quality,generated
+97,"Absolutely delicious pasta, creamy sauce and cooked just right.",Positive,Food Quality,handwritten
+98,Absolutely fantastic. Portions were generous and the flavours were perfect.,Positive,Food Quality,generated
+99,The burger was juicy and the fries were crunchy. So good.,Positive,Food Quality,generated
+100,"Driver was courteous and handed over the bags carefully, on time as always.",Positive,Delivery,handwritten
+101,Order was delivered very late and tossed at the door. Absolutely awful.,Negative,Delivery,generated
+102,So bad. The cancellation policy is unfair.,Negative,General,generated
+103,The app interface is clean and simple. Wonderful service.,Positive,App,generated
+104,Terrible experience. The app logged me out again and again.,Negative,App,generated
+105,Payment went through instantly in the app. Very satisfied.,Positive,App,generated
+106,So bad. The app logged me out again and again.,Negative,App,generated
+107,The food was cold and tasteless. Never ordering again.,Negative,Food Quality,generated
+108,My salad had wilted lettuce and the dressing tasted sour.,Negative,Food Quality,handwritten
+109,My order was delivered on schedule and the courier was friendly.,Positive,Delivery,handwritten
+110,Five stars from me. The food was hot and delicious.,Positive,Food Quality,generated
+111,Customer support ignored my complaint. Worst experience so far.,Negative,General,generated
+112,Very satisfied. Portions were generous and the flavours were perfect.,Positive,Food Quality,generated
+113,I am very upset. Rider did not follow my directions and kept calling.,Negative,Delivery,generated
+114,Checkout in the app was smooth. Really happy with this order.,Positive,App,generated
+115,I am very upset. No one replied to my emails about compensation.,Negative,General,generated
+116,The cancellation policy is unfair. Worst experience so far.,Negative,General,generated
+117,Customer support solved my issue quickly. Very satisfied.,Positive,General,generated
+118,My order was delivered to the wrong address again. Terrible delivery service.,Negative,Delivery,handwritten
+119,Quick delivery and the driver called me before arriving. Very professional.,Positive,Delivery,handwritten
+120,No one replied to my emails about compensation. What a waste of money.,Negative,General,generated
+121,"Rice was stale and the curry too salty. One star, honestly.",Negative,Food Quality,generated
+122,Completely unacceptable. Customer support ignored my complaint.,Negative,General,generated
+123,The app logged me out again and again. Very disappointed.,Negative,App,generated
+124,Worst experience so far. Everything tasted stale and oily.,Negative,Food Quality,generated
+125,"Soft naan, delicious curry and the sweets were yummy too.",Positive,Food Quality,handwritten
+126,Dessert was fresh and the curry was rich. Very satisfied.,Positive,Food Quality,generated
+127,Absolutely awful. The rider arrived over an hour late.,Negative,Delivery,generated
+128,Worst experience so far. Order was delivered very late and tossed at the door.,Negative,Delivery,generated
+129,Payment went through instantly in the app. Loved it!,Positive,App,generated
+130,Great experience today. Order was delivered before the promised time.,Positive,Delivery,generated
+131,The food was cold and tasteless. Really unhappy with this.,Negative,Food Quality,generated
+132,"The refund was processed without any fuss. Perfect, will order again.",Positive,General,generated
+133,"App update fixed the lag, now ordering is quick and simple.",Positive,App,handwritten
+134,The cancellation policy is unfair. So bad.,Negative,General,generated
+135,"Dessert was melted and the food was tasteless, very disappointing meal.",Negative,Food Quality,handwritten
+136,Not happy at all. Support agent was rude and unhelpful.,Negative,General,generated
+137,"Happy with the service, highly recommend this platform to everyone.",Positive,General,handwritten
+138,"Smooth login, fast loading menu and clear order history in the app.",Positive,App,handwritten
+139,Pleasantly surprised. Great platform with fair charges.,Positive,General,generated
+140,Terrible experience. The delivery guy refused to come to my door.,Negative,Delivery,generated
+141,Chicken was undercooked and the gravy smelled bad. Worst experience so far.,Negative,Food Quality,generated
+142,"The whole experience was smooth and enjoyable, thank you.",Positive,General,handwritten
+143,The app is slow and keeps freezing. What a waste of money.,Negative,App,generated
+144,Really unhappy with this. The cancellation policy is unfair.,Negative,General,generated
+145,Customer care was kind and gave a quick response.,Positive,General,handwritten
+146,Very satisfied. Everything tasted fresh and well seasoned.,Positive,Food Quality,generated
+147,"Refund is still pending after two weeks, very poor support.",Negative,General,handwritten
+148,Very satisfied. Noodles were flavourful and the vegetables were fresh.,Positive,Food Quality,generated
+149,"Terrible experience overall, I will never order again.",Negative,General,handwritten
+150,Burger was soggy and the fries were undercooked and greasy.,Negative,Food Quality,handwritten
+151,The rider arrived over an hour late. What a waste of money.,Negative,Delivery,generated
+152,Absolutely awful. Prices are too high for the quality of service.,Negative,General,generated
+153,Never ordering again. Everything tasted stale and oily.,Negative,Food Quality,generated
+154,Loved it! I order every week and the service is reliable.,Positive,General,generated
+155,"Pizza was burnt, the cheese tasted rubbery and the crust was hard.",Negative,Food Quality,handwritten
+156,Terrible experience. Login kept failing after the app update.,Negative,App,generated
+157,Highly recommended. I order every week and the service is reliable.,Positive,General,generated
+158,Worst experience so far. Customer support ignored my complaint.,Negative,General,generated
+159,Payment failed in the app and money got deducted. So bad.,Negative,App,generated
+160,"The delivery guy was friendly and professional. Excellent, thank you!",Positive,Delivery,generated
+161,Food was piping hot and tasted like it was just cooked.,Positive,Food Quality,handwritten
+162,"Cannot apply coupon code, the app shows an error again and again.",Negative,App,handwritten
+163,"Fresh ingredients and generous portions, the pizza tasted amazing 🍕",Positive,Food Quality,handwritten
+164,"Perfect, will order again. Good value for money overall.",Positive,General,generated
+165,Payment went through instantly in the app. So good.,Positive,App,generated
+166,"Order arrived 45 minutes after the promised time, completely unacceptable delay.",Negative,Delivery,handwritten
+167,No one replied to my emails about compensation. Completely unacceptable.,Negative,General,generated
+168,The cancellation policy is unfair. What a waste of money.,Negative,General,generated
+169,Great platform with fair charges. Absolutely fantastic.,Positive,General,generated
+170,Never ordering again. Burger was soggy and the fries were greasy.,Negative,Food Quality,generated
+171,Driver went to the wrong address. Absolutely awful.,Negative,Delivery,generated
+172,Portions were generous and the flavours were perfect. Five stars from me.,Positive,Food Quality,generated
+173,So bad. The rider arrived over an hour late.,Negative,Delivery,generated
+174,The app is slow and keeps freezing. Very disappointed.,Negative,App,generated
+175,Absolutely fantastic. The pizza was crispy and well cooked.,Positive,Food Quality,generated
+176,"Perfect, will order again. The app interface is clean and simple.",Positive,App,generated
+177,Five stars from me. Order was delivered before the promised time.,Positive,Delivery,generated
+178,Coupon code did not work in the app. Worst experience so far.,Negative,App,generated
+179,"Excellent, thank you! Prices are fair and the offers are great.",Positive,General,generated
+180,Completely unacceptable. Login kept failing after the app update.,Negative,App,generated
+181,The app keeps crashing every time I try to place an order.,Negative,App,handwritten
+182,Order was delivered very late and tossed at the door. Really unhappy with this.,Negative,Delivery,generated
+183,"The biryani was hot, flavourful and perfectly spiced. Loved it!",Positive,Food Quality,handwritten
+184,Very disappointed. Refund is still pending after two weeks.,Negative,General,generated
+185,Really happy with this order. Coupon codes applied without any error in the app.,Positive,App,generated
+186,Rider did not follow my directions and kept calling. Absolutely awful.,Negative,Delivery,generated
+187,The app was easy to use and fast. Wonderful service.,Positive,App,generated
+188,"Perfect, will order again. Driver reached my place in 15 minutes.",Positive,Delivery,generated
+189,"Overall a wonderful experience, will definitely order again.",Positive,General,handwritten
+190,Login kept failing after the app update. So bad.,Negative,App,generated
+191,"The momos were cold and chewy, the chutney tasted spoiled.",Negative,Food Quality,handwritten
+192,Terrible experience. Everything tasted stale and oily.,Negative,Food Quality,generated
+193,"Charged a platform fee of 99 rupees for a tiny order, ridiculous pricing.",Negative,General,handwritten
+194,Worst experience so far. Portion was tiny and the noodles were bland.,Negative,Food Quality,generated
+195,Rider found my address easily and delivered even during heavy rain.,Positive,Delivery,handwritten
+196,Easy reordering feature in the app saves so much time.,Positive,App,handwritten
+197,Worst experience so far. The delivery guy refused to come to my door.,Negative,Delivery,generated
+198,The curry was way too salty and the chicken was raw inside.,Negative,Food Quality,handwritten
+199,Not happy at all. The rider arrived over an hour late.,Negative,Delivery,generated
+200,Not happy at all. Order was delivered very late and tossed at the door.,Negative,Delivery,generated
+201,Support team resolved my refund query quickly and politely.,Positive,General,handwritten
+202,Really unhappy with this. Login kept failing after the app update.,Negative,App,generated
+203,Terrible experience. Chicken was undercooked and the gravy smelled bad.,Negative,Food Quality,generated
+204,Worst experience so far. Driver went to the wrong address.,Negative,Delivery,generated
+205,"Excellent, thank you! The app loads the menu quickly.",Positive,App,generated
+206,Never ordering again. The app shows wrong prices and many bugs.,Negative,App,generated
+207,Worst experience so far. Hidden charges made the bill too high.,Negative,General,generated
+208,"Glitchy app, it showed wrong prices and then crashed at payment.",Negative,App,handwritten
+209,Fastest delivery ever! Got my dinner in 15 mins.,Positive,Delivery,handwritten
+210,Terrible experience. The app is slow and keeps freezing.,Negative,App,generated
+211,Great experience today. The food was hot and delicious.,Positive,Food Quality,generated
+212,The app interface is clean and simple. Highly recommended.,Positive,App,generated
+213,Tasty biryani with fresh ingredients. Loved it!,Positive,Food Quality,generated
+214,Great experience today. Support team was polite and helpful.,Positive,General,generated
+215,Never ordering again. Portion was tiny and the noodles were bland.,Negative,Food Quality,generated
+216,"Delivery was super fast, the rider reached in just 20 minutes!",Positive,Delivery,handwritten
+217,No compensation offered and the support team ignored my emails.,Negative,General,handwritten
+218,Overpriced and customer support never replied to my complaint.,Negative,General,handwritten
+219,Delivery was quick and smooth. Really happy with this order.,Positive,Delivery,generated
+220,Everything tasted stale and oily. What a waste of money.,Negative,Food Quality,generated
+221,Terrible experience. Burger was soggy and the fries were greasy.,Negative,Food Quality,generated
+222,Very disappointed. Order tracking in the app never updates.,Negative,App,generated
+223,"Reliable platform, I order every week and never regret it.",Positive,General,handwritten
+224,The rider never showed up and marked my order as delivered!!!,Negative,Delivery,handwritten
+225,Tasty biryani with fresh ingredients. Highly recommended.,Positive,Food Quality,generated
+226,Loved it! Tracking showed the rider location accurately.,Positive,Delivery,generated
+227,"Fantastic service overall, worth every rupee.",Positive,General,handwritten
+228,Five stars from me. Driver reached my place in 15 minutes.,Positive,Delivery,generated
+229,Great platform with fair charges. Wonderful service.,Positive,General,generated
+230,Tasty biryani with fresh ingredients. Wonderful service.,Positive,Food Quality,generated
+231,What a waste of money. Prices are too high for the quality of service.,Negative,General,generated
+232,No one replied to my emails about compensation. Worst experience so far.,Negative,General,generated
+233,Really happy with this order. Great platform with fair charges.,Positive,General,generated
+234,I like how the app shows rider location on the map in real time.,Positive,App,handwritten
+235,"Good offers and fair prices, very satisfied customer.",Positive,General,handwritten
+236,"Late delivery AGAIN, the courier cancelled at the last minute.",Negative,Delivery,handwritten
+237,Order tracking in the app never updates. So bad.,Negative,App,generated
+238,"Excellent, thank you! Live tracking in the app worked perfectly.",Positive,App,generated
+239,Very satisfied. Support team was polite and helpful.,Positive,General,generated
+240,Worst experience so far. The cancellation policy is unfair.,Negative,General,generated
+241,Delivery tracking was accurate and the rider arrived exactly when promised.,Positive,Delivery,handwritten
+242,The courier was polite and careful with the order. Very satisfied.,Positive,Delivery,generated
+243,Delivery took over 90 minutes and nobody told me why the order was late.,Negative,Delivery,handwritten
+244,Delivery was quick and smooth. So good.,Positive,Delivery,generated
+245,Chicken was undercooked and the gravy smelled bad. Never ordering again.,Negative,Food Quality,generated
+246,Not happy at all. No one replied to my emails about compensation.,Negative,General,generated
+247,Great experience today. Payment went through instantly in the app.,Positive,App,generated
+248,So good. Good value for money overall.,Positive,General,generated
+249,The delivery guy was friendly and professional. Wonderful service.,Positive,Delivery,generated
+250,The pizza was crispy and well cooked. Wonderful service.,Positive,Food Quality,generated
+251,The rider followed the contactless drop-off instructions perfectly.,Positive,Delivery,handwritten
+252,Very disappointed. The courier was rude and impatient.,Negative,Delivery,generated
+253,The app interface is clean and simple. Very satisfied.,Positive,App,generated
+254,Not happy at all. The dessert was melted and the sauce tasted sour.,Negative,Food Quality,generated
+255,"Delivery was quick and smooth. Perfect, will order again.",Positive,Delivery,generated
+256,Five stars from me. Everything tasted fresh and well seasoned.,Positive,Food Quality,generated
+257,"The delivery guy was friendly and professional. Perfect, will order again.",Positive,Delivery,generated
+258,Payment went through instantly in the app. Pleasantly surprised.,Positive,App,generated
+259,So bad. Portion was tiny and the noodles were bland.,Negative,Food Quality,generated
+260,Delivery was quick and smooth. Loved it!,Positive,Delivery,generated
+261,I am very upset. Coupon code did not work in the app.,Negative,App,generated
+262,"Best butter chicken I have had, rich gravy and soft meat.",Positive,Food Quality,handwritten
+263,"Coupon applied automatically in the app, super smooth experience!",Positive,App,handwritten
+264,The app loads the menu quickly. Loved it!,Positive,App,generated
+265,Great experience today. The pizza was crispy and well cooked.,Positive,Food Quality,generated
+266,Terrible experience. The dessert was melted and the sauce tasted sour.,Negative,Food Quality,generated
+267,Rice was stale and the curry too salty. Terrible experience.,Negative,Food Quality,generated
+268,Delivery was quick and smooth. Pleasantly surprised.,Positive,Delivery,generated
+269,"Excellent experience from start to finish, five stars!",Positive,General,handwritten
+270,"The app interface is clean and simple. Excellent, thank you!",Positive,App,generated
+271,Everything tasted stale and oily. Completely unacceptable.,Negative,Food Quality,generated
+272,"Love the new interface, the live order tracking works smoothly.",Positive,App,handwritten
+273,Everything tasted fresh and well seasoned. Pleasantly surprised.,Positive,Food Quality,generated
+274,Support team was polite and helpful. Wonderful service.,Positive,General,generated
+275,The delivery partner was polite and brought my order right on time 👍,Positive,Delivery,handwritten
+276,Worst experience so far. Prices are too high for the quality of service.,Negative,General,generated
+277,Delivery was quick and smooth. Five stars from me.,Positive,Delivery,generated
+278,"Excellent, thank you! The app interface is clean and simple.",Positive,App,generated
+279,"The food was hot and delicious. Perfect, will order again.",Positive,Food Quality,generated
+280,What a waste of money. Everything tasted stale and oily.,Negative,Food Quality,generated
+281,"Chicken was undercooked and the gravy smelled bad. One star, honestly.",Negative,Food Quality,generated
+282,Not happy at all. Prices are too high for the quality of service.,Negative,General,generated
+283,"Waited 2 hours for my order, the delivery partner kept saying he was nearby.",Negative,Delivery,handwritten
+284,"One star, honestly. Coupon code did not work in the app.",Negative,App,generated
+285,Wonderful service. Great platform with fair charges.,Positive,General,generated
+286,"One star, honestly. Extra fees keep getting added to every order.",Negative,General,generated
+287,Delivery was quick and smooth. Very satisfied.,Positive,Delivery,generated
+288,"The pizza was crispy and well cooked. Perfect, will order again.",Positive,Food Quality,generated
+289,Absolutely fantastic. Tracking showed the rider location accurately.,Positive,Delivery,generated
+290,The app is very easy to use and ordering took just two taps.,Positive,App,handwritten
+291,"Terrible app interface, search does not work and buttons are unresponsive.",Negative,App,handwritten
+292,Noodles were flavourful and the vegetables were fresh. Great experience today.,Positive,Food Quality,generated
+293,Very disappointed. Payment failed in the app and money got deducted.,Negative,App,generated
+294,Hidden charges made the bill too high. Never ordering again.,Negative,General,generated
+295,"Tracking showed the rider location accurately. Perfect, will order again.",Positive,Delivery,generated
+296,"The food arrived cold and the rice was stale, awful taste.",Negative,Food Quality,handwritten
+297,"Crispy fries, tasty sandwich and very fresh salad.",Positive,Food Quality,handwritten
+298,The app interface is clean and simple. Really happy with this order.,Positive,App,generated
+299,"Hidden charges added at the end, I feel cheated.",Negative,General,handwritten
+300,"Driver got lost, called me five times and finally arrived an hour late.",Negative,Delivery,handwritten
+301,"Excellent, thank you! The delivery guy was friendly and professional.",Positive,Delivery,generated
+302,Every dish was well seasoned and the portion size was great.,Positive,Food Quality,handwritten
+303,Checkout in the app was smooth. So good.,Positive,App,generated
+304,"Not worth the money, the platform keeps adding extra fees.",Negative,General,handwritten
+305,Customer support ignored my complaint. Very disappointed.,Negative,General,generated
+306,"The noodles were tasty, fresh vegetables and a lovely aroma.",Positive,Food Quality,handwritten
+307,Very satisfied. Reordering through the app is effortless.,Positive,App,generated
+308,The app logged me out again and again. Completely unacceptable.,Negative,App,generated
+309,Rider did not follow my directions and kept calling. Not happy at all.,Negative,Delivery,generated
+310,Pleasantly surprised. The delivery guy was friendly and professional.,Positive,Delivery,generated
+311,Never ordering again. The app crashed at checkout.,Negative,App,generated
+312,The app froze at checkout and I lost my entire cart.,Negative,App,handwritten
+313,Everything tasted fresh and well seasoned. So good.,Positive,Food Quality,generated
+314,The courier was rude and impatient. Completely unacceptable.,Negative,Delivery,generated
+315,The courier was rude and impatient. Really unhappy with this.,Negative,Delivery,generated
+316,The app crashed at checkout. What a waste of money.,Negative,App,generated
+317,Never ordering again. Delivery was delayed with no updates.,Negative,Delivery,generated
+318,Highly recommended. The delivery guy was friendly and professional.,Positive,Delivery,generated
+319,Noodles were flavourful and the vegetables were fresh. Five stars from me.,Positive,Food Quality,generated
+320,Pleasantly surprised. Tracking showed the rider location accurately.,Positive,Delivery,generated
